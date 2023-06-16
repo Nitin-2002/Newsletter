@@ -29,7 +29,7 @@ Express.js
 Mailchimp API
 
 Contact
-If you have any questions or need assistance, feel free to reach out to the project maintainer at your-nitin2002@gmail.com
+If you have any questions or need assistance, feel free to reach out to the project maintainer at nitinbhasin2002@gmail.com
 
 
 
